@@ -1,0 +1,17 @@
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/TestsDomain.deps.json
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/TestsDomain.runtimeconfig.json
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/TestsDomain.runtimeconfig.dev.json
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/TestsDomain.dll
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/TestsDomain.pdb
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.csprojAssemblyReference.cache
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.csproj.CoreCompileInputs.cache
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.AssemblyInfoInputs.cache
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.AssemblyInfo.cs
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.dll
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.pdb
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/DomainLayer.dll
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/DomainLayer.pdb
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.csproj.CopyComplete

@@ -1,0 +1,9 @@
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/bin/Debug/netstandard2.0/SharedLayer.deps.json
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/bin/Debug/netstandard2.0/SharedLayer.dll
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/bin/Debug/netstandard2.0/SharedLayer.pdb
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/obj/Debug/netstandard2.0/SharedLayer.csprojAssemblyReference.cache
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/obj/Debug/netstandard2.0/SharedLayer.csproj.CoreCompileInputs.cache
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/obj/Debug/netstandard2.0/SharedLayer.AssemblyInfoInputs.cache
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/obj/Debug/netstandard2.0/SharedLayer.AssemblyInfo.cs
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/obj/Debug/netstandard2.0/SharedLayer.dll
+/home/lazaro/Documents/Develop/GroupForWork/SharedLayer/obj/Debug/netstandard2.0/SharedLayer.pdb
