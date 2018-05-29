@@ -7,13 +7,13 @@ namespace TestsDomain.Entities
 {
     public class StudentTests
     {
-        Student student = new Student(new Name("Lazaro", "Campos"), 21660411, "lazaro@email.com");
-
         [Fact]
         public void CheckName()
-        {            
-            Assert.Equal(student.Name.FirstName, "Lazaro");
+        {
+            var name = new Name("Lazaro", "Campos");
+            var student = new Student(name, 21660411, "lazaro@email.com");
 
+            Assert.Equal(student.Name.FirstName, "Lazaro");
         }
 
         // Theory Test
