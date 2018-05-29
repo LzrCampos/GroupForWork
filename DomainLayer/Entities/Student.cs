@@ -23,5 +23,7 @@ namespace DomainLayer.Entities
             Responsibilitys.Add(responsibility);
         }
 
+        public override string ToString() => Name.ToString();
+
     }
 }

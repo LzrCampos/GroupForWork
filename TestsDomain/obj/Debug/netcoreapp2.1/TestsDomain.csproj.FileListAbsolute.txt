@@ -15,3 +15,5 @@
 /home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/DomainLayer.dll
 /home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/DomainLayer.pdb
 /home/lazaro/Documents/Develop/GroupForWork/TestsDomain/obj/Debug/netcoreapp2.1/TestsDomain.csproj.CopyComplete
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/SharedLayer.dll
+/home/lazaro/Documents/Develop/GroupForWork/TestsDomain/bin/Debug/netcoreapp2.1/SharedLayer.pdb

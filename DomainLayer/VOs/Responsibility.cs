@@ -1,7 +1,8 @@
 using System;
 
 namespace DomainLayer.VOs{
-    public class Responsibility{
+    public class Responsibility
+    {
         public Responsibility(string tag, string description)
         {
             Id = Guid.NewGuid();

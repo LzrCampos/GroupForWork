@@ -13,17 +13,7 @@ namespace TestsDomain.Entities
             var name = new Name("Lazaro", "Campos");
             var student = new Student(name, 21660411, "lazaro@email.com");
 
-            Assert.Equal(student.Name.FirstName, "Lazaro");
+            Assert.Equal(student.ToString(), "Lazaro Campos");
         }
-
-        // Theory Test
-        // [Theory]
-        // [InlineData("Lazaro")]
-        // [InlineData("Lazaro")]
-        // [InlineData("Lazaro")]
-        // public void MyFirstTheory(string value)
-        // {
-        //     Assert.Equal(student.Name.FirstName, value);
-        // }
     }
 }

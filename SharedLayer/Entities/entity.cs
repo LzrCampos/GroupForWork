@@ -1,8 +1,9 @@
 ﻿using System;
+using FluentValidator;
 
 namespace SharedLayer.Entities
 {
-    public class entity
+    public class entity : Notifiable
     {
         public entity()
         {
